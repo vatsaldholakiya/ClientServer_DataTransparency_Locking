@@ -27,9 +27,9 @@
 * Run Client file in the following way:
     * To fetch the list of files: __`python3 Client.py`__   
     * Result : ![Screenshot 2022-02-18 193252](https://user-images.githubusercontent.com/25501934/154781509-8dfe6bc6-ba5a-4856-805a-d18bff137f53.png)
-    * To fetch the list of files: __`python3 Client.py -lock 2`__ replace 2 with the index of the file from the list.
+    * To fetch the list of files: __`python3 Client.py -lock 2`__ (replace 2 with the index of the file from the list).
     * Result: ![Screenshot 2022-02-18 195528](https://user-images.githubusercontent.com/25501934/154781606-73479032-33f5-4457-b8f9-37d87899bb79.png)
-    * To fetch the list of files: __`python3 Client.py -unlock 2`__ replace 2 with the index of the file from the list
+    * To fetch the list of files: __`python3 Client.py -unlock 2`__ (replace 2 with the index of the file from the list).
     * Results : ![Screenshot 2022-02-18 195847](https://user-images.githubusercontent.com/25501934/154781758-f547e058-d7de-4e18-a18d-4a54962c6763.png)
 
 
