@@ -1,7 +1,7 @@
 # Client Server Architecture demonstrating Data Transparency as well as Locking mechanism
 
 ## Problem Description
-   - A try to achieve Data transparency and locking mechanism while accepting the updates.
+   - Achieving Data transparency and locking mechanism while accepting the updates.
    - To achieve data transparency, data replication among servers has been implemented at certain Interval of time (5 sec) as the size of data is not large.
    - User on server side can alter(add/modify/delete) file on Server A or Server B.
    - When a file on any server is altered(add/modify/delete) while it is unlocked, the change should be reflected on the other server.
