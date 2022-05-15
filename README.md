@@ -1,4 +1,4 @@
-# Client Server Architecture demonstrating Data Transparency as well as Locking mechanism
+# Client Server Architecture demonstrating Replication Transparency as well as Locking mechanism
 
 ## Problem Description
    - Achieving Data transparency and locking mechanism while accepting the updates.
